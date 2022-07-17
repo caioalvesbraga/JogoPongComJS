@@ -8,10 +8,9 @@
 ## Índice 
 
 * [Introdução](#JogoPongComJS)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Descrição do Projeto](## Descrição do Projeto)
+* [Funcionalidades e Demonstração da Aplicação](## Funcionalidades e Demonstração da Aplicação)
+* [Acesso ao Projeto](## Acesso ao projeto 📁)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
@@ -32,12 +31,20 @@ A seguir, uma demonstração do game:
 ![](img/PongJS.gif)
 
 ## Acesso ao projeto 📁
+<h4>Baixar</h4>
+<br>
 <p>Para acessar o jogo, é preciso baixá-lo em seu computador:
 1. Entre no repositório do projeto PongJS
 2. Vá em Code (botão verde)
 3. Clique em Download ZIP
 
 Os arquivos serão baixados compactados, logo será necessário descompactar.</p>
+<br>
+<h4>Jogar</h4>
+<p> Para jogar, acesse o arquivo "index.html", na página do projeto. O jogo será aberto no seu browser.</p>
+
+## Tecnologias utilizadas
+
 
 
 

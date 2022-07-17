@@ -8,9 +8,9 @@
 ## Índice 
 
 * [Introdução](#JogoPongComJS)
-* [Descrição do Projeto](## Descrição do Projeto)
-* [Funcionalidades e Demonstração da Aplicação](## Funcionalidades e Demonstração da Aplicação)
-* [Acesso ao Projeto](## Acesso ao projeto 📁)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
@@ -42,6 +42,7 @@ Os arquivos serão baixados compactados, logo será necessário descompactar.</p
 <p> Para jogar, acesse o arquivo "index.html", na página do projeto. O jogo será iniciado no seu navegador. Para controlar, dê um clique na tela.</p>
 
 ## Tecnologias utilizadas
+![](img/html5.png)  ![](img/css3_full.png)  ![](img/javascript_1.png)
 
 
 

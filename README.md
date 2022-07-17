@@ -1,5 +1,5 @@
 # JogoPongComJS
-Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js, que é gratuita e open-source, desenvolvida para tornar a programação acessível para a criação artística.
+
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
@@ -7,8 +7,7 @@ Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js
 
 ## Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
+* [Introdução](#JogoPongComJS)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -17,3 +16,8 @@ Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+# Descrição do Projeto
+<p>
+Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js, que é gratuita e open-source, desenvolvida para tornar a programação acessível para a criação artística.
+</p>

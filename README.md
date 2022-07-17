@@ -37,7 +37,7 @@ A seguir, uma demonstração do game:
 
 Os arquivos serão baixados compactados, logo será necessário descompactar.</p>
 <h3>Jogar</h3>
-<p> Para jogar, acesse o arquivo "index.html", na diretório baixado. O jogo será iniciado no seu navegador. Para controlar, dê um clique na tela.</p>
+<p> Para jogar, acesse o arquivo "index.html" no diretório baixado. O jogo será iniciado no seu navegador. Para controlar, dê um clique na tela.</p>
 
 ## Tecnologias utilizadas
 ![](img/html5.png)  ![](img/css3_full.png)  ![](img/javascript_1.png)  ![](img/p5.jpg)

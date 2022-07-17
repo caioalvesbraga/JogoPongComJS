@@ -29,7 +29,7 @@ O jogo pode ser controlado pelas teclas W e S(respectivamente, cima e baixo), qu
 A seguir, uma demonstração do game:
 </p>
 
-![](img/Vídeo Pong_Right.gif)
+![](img/PongJS.gif)
 
 
 

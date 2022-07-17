@@ -31,14 +31,14 @@ A seguir, uma demonstração do game:
 ![](img/PongJS.gif)
 
 ## Acesso ao projeto 📁
-<h4>Baixar</h4>
+<h3>Baixar</h3>
 <p>Para acessar o jogo, é preciso baixá-lo em seu computador:
 1. Entre no repositório do projeto PongJS
 2. Vá em Code (botão verde)
 3. Clique em Download ZIP
 
 Os arquivos serão baixados compactados, logo será necessário descompactar.</p>
-<h4>Jogar</h4>
+<h3>Jogar</h3>
 <p> Para jogar, acesse o arquivo "index.html", na página do projeto. O jogo será iniciado no seu navegador. Para controlar, dê um clique na tela.</p>
 
 ## Tecnologias utilizadas

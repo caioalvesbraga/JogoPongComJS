@@ -28,7 +28,7 @@ A seguir, uma demonstração do game:
 
 ![](img/PongJS.gif)
 
-## Acesso ao projeto 📁
+## Acesso ao projeto
 <h3>Baixar</h3>
 <p>Para acessar o jogo, é preciso baixá-lo em seu computador:
 1. Entre no repositório do projeto PongJS

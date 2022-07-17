@@ -21,7 +21,7 @@ Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js
 ## Funcionalidades e Demonstração da Aplicação
 
 <p>
-O jogo pode ser controlado pelas teclas W e S que movem a raqute (respectivamente, cima e baixo) e possibilitam a colisão com a bola. O objetivo do jogo é aumentar a sua pontuação, e derrotar o computador. O placar é ilimitado, e o jogo inicia automaticamente no single-player. A versão multiplayer do projeto está em desenvolvimento.
+O jogo pode ser controlado pelas teclas W e S que movem a raquete (respectivamente, cima e baixo) e possibilitam a colisão com a bola. O objetivo do jogo é aumentar a sua pontuação, e derrotar o computador. O placar é ilimitado, e o jogo inicia automaticamente no single-player. A versão multiplayer do projeto está em desenvolvimento.
 
 A seguir, uma demonstração do game:
 </p>

@@ -31,9 +31,9 @@ A seguir, uma demonstração do game:
 ## Acesso ao projeto
 <h3>Baixar</h3>
 <p>Para acessar o jogo, é preciso baixá-lo em seu computador:
-1. Entre no repositório do projeto PongJS
-2. Vá em Code (botão verde)
-3. Clique em Download ZIP
+1. Entre no repositório do projeto PongJS <br>
+2. Vá em Code (botão verde)<br>
+3. Clique em Download ZIP<br>
 
 Os arquivos serão baixados compactados, logo será necessário descompactar.</p>
 <h3>Jogar</h3>

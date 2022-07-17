@@ -16,11 +16,20 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-# Descrição do Projeto
+## Descrição do Projeto
 <p>
 Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js, que é gratuita e open-source, desenvolvida para tornar a programação acessível para a criação artística. A ideia foi inspirada no game arcade 'Pong', do videogame Atari dos anos 70, criado por Allan Alcorn. O desenvolvimento foi feito tendo como base o curso de Lógica de Programação da plataforma Alura Cursos Online.
 </p>
 
-# Funcionalidades e Demonstração da Aplicação
+## Funcionalidades e Demonstração da Aplicação
+
+<p>
+O jogo pode ser controlado pelas teclas W e S(respectivamente, cima e baixo), que movem a raqute e possibilitam a colisão com a bola. O objetivo do jogo é aumenta sua pontuação, e derrotar o computador. O placar é ilimitado, e o jogo inicia automaticamente no single-player. A versão multiplayer do projeto está em desenvolvimento.
+
+A seguir, uma demonstração do game:
+
+![](img/Video Pong_Right.gif)
+
+
 
 

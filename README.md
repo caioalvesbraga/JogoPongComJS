@@ -31,6 +31,11 @@ A seguir, uma demonstração do game:
 
 ![](img/PongJS.gif)
 
+## ## 📁 Acesso ao projeto
+Para acessar o jogo, é preciso baixá-lo em seu computador:
+1. Vá em Code
+2. 
+
 
 
 

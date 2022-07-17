@@ -27,8 +27,9 @@ Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js
 O jogo pode ser controlado pelas teclas W e S(respectivamente, cima e baixo), que movem a raqute e possibilitam a colisão com a bola. O objetivo do jogo é aumenta sua pontuação, e derrotar o computador. O placar é ilimitado, e o jogo inicia automaticamente no single-player. A versão multiplayer do projeto está em desenvolvimento.
 
 A seguir, uma demonstração do game:
+</p>
 
-![](img/Video Pong_Right.gif)
+![](JogoPongComJS/img/Vídeo Pong_Right.gif)
 
 
 

@@ -10,7 +10,6 @@
 * [Introdução](#JogoPongComJS)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -19,5 +18,9 @@
 
 # Descrição do Projeto
 <p>
-Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js, que é gratuita e open-source, desenvolvida para tornar a programação acessível para a criação artística.
+Este projeto consiste num jogo construído com Javascript e a biliblioteca p5.js, que é gratuita e open-source, desenvolvida para tornar a programação acessível para a criação artística. A ideia foi inspirada no game arcade 'Pong', do videogame Atari dos anos 70, criado por Allan Alcorn. O desenvolvimento foi feito tendo como base o curso de Lógica de Programação da plataforma Alura Cursos Online.
 </p>
+
+# Funcionalidades e Demonstração da Aplicação
+
+
